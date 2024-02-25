@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 B.Tech Computer Science <br>🌱 I’m currently learning Dart/Flutter<br>
+📚 B.Tech Computer Science <br>🌱 Still learning<br>
 
 
 ## 🌐 Socials:
